@@ -295,16 +295,13 @@ margin-left: 450px;
  width: 156.602px;
 height: 45px;
 flex-shrink: 0;
-/* padding-top: 400px; */
 
 }
 .holiday-j{
 margin-left: 750px; 
-/* margin-bottom: 350px; */
 width:400px;
 height:0px;
 flex-shrink: 0;
-/* position: relative; */
 
 }
 .holiday-k{
@@ -316,9 +313,7 @@ background: url('../images/Rectangle\ 1.png'), lightgray -59.98px 0px / 151.553%
 margin-left: 950px;
 background-repeat: no-repeat;
 background-position: right;
-/* margin-bottom: 900px;  */
-/* background-attachment: fixed; */
-/* padding-bottom: 900px; */
+
 }
 .holiday-n{
     background-image: url('../images/Rectangle\ 2.png');
@@ -330,3 +325,118 @@ border-radius: 16px 0px 16px 16px;
 background: #F00;
 padding-left: 65px;
 }
+/* gift section styles */
+.gift{
+
+    padding-top: 250px;
+    padding-left: 20px;
+}
+.gift-a{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.gift-b{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.gift-c{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px; 
+    width: 900px;
+}
+.gift-d{
+padding-top:20px ;
+width: 1700px;
+height: 450px;
+/* flex-shrink: 0; */
+}
+.gift-e{
+padding-top:20px ;
+width: 1700px;
+height: 450px;
+flex-shrink: 0;
+}
+.last{
+    padding: 25px;
+    margin-top: 100px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+}
+.last-a{
+    padding-left: 530px ;
+padding-top: 80px;
+}
+.last-b{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 50px;
+}
+.last-c{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 750px;
+    margin-left: 230px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+.last-d{
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+ border-radius: 0px 50px 50px 0px;
+background: #F00;
+margin-left: 255px; 
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+text-transform: capitalize;
+
+}
+.last-e{
+    display:flex;
+border-radius: 50px;
+background: #FFF;
+width: 648px;
+height: 72px;
+flex-shrink: 0;
+margin-left: 300px;
+
+}
+.last-f{
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 50px;
+}
+
+
+
